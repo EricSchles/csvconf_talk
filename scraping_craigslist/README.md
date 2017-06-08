@@ -48,7 +48,7 @@ To make a pull request
 ## Unable to create db
 
 If you try creating a db:
- * `createdb skills_admin`
+ * `createdb scraper_db`
 
     and you get:
 
